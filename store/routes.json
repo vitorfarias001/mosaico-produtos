@@ -1,0 +1,14 @@
+{
+  "store.custom#about-us": {
+    "path": "/about-us"
+  },
+  "store.custom#faq": {
+    "path": "/faq"
+  },
+  "store.custom#contact-us": {
+    "path": "/contact-us"
+  },
+  "subscriptions-portal.embedded-router": {
+    "path": "/_v/public/my-subscriptions-router"
+  }
+}
